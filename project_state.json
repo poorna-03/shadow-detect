@@ -1,0 +1,49 @@
+{
+  "summaryUpdate": "Project to redeploy an app that accepts video input, supports AI chat to search for incidents/objects and return a timeline of findings, and can sharpen/enhance the video.",
+  "new_feature_requests_to_add": [
+    {
+      "id": "AR-1",
+      "summary": "Add ability to enter/upload a video for analysis",
+      "reqIds": [
+        
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "AR-2",
+      "summary": "AI chatbox: search for an incident/object and return the timeline of when it occurs in the video",
+      "reqIds": [
+        
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "AR-3",
+      "summary": "Add video sharpening/enhancement capability",
+      "reqIds": [
+        
+      ],
+      "status": "pending"
+    }
+  ],
+  "new_feature_requests_to_remove": [
+    
+  ],
+  "architecturalNotesToAdd": [
+    
+  ],
+  "architecturalNotesToRemove": [
+    
+  ],
+  "knownIssuesToAdd": [
+    
+  ],
+  "knownIssuesToRemove": [
+    
+  ],
+  "isFixRequest": false,
+  "imageRequirements": null,
+  "generatedImages": null,
+  "gameProjectType": null,
+  "projectName": null
+}
